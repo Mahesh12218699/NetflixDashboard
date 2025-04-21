@@ -1,2 +1,2 @@
 # NetflixDashboard
-The dashboard provide the analysis of netflix data of 2021
+This dashboard provide the analysis of netflix data of 2021
